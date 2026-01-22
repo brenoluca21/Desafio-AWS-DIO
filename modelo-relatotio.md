@@ -31,10 +31,6 @@ O Amazon RDS foi utilizado para armazenar dados estruturados críticos, como cad
 ## Conclusão
 A implementação das ferramentas na empresa Abstergo Industries tem como esperado a redução de custos com infraestrutura, maior segurança da informação, alta disponibilidade dos sistemas e aumento da produtividade operacional. Recomenda-se a continuidade da utilização das soluções adotadas e a avaliação constante de novas tecnologias em nuvem.
 
-## Anexos
-Documentação oficial da AWS  
-Diagramas de arquitetura  
-Estimativa de custos  
 
 Assinatura do Responsável pelo Projeto:
 
